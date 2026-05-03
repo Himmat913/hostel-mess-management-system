@@ -84,7 +84,7 @@ The project includes analytical queries such as:
 * Constraints ensure data integrity
 * Transaction control is used inside the simulation
 
-## Author
+## Authors
 
 * Himantveer Kaur (1024170271)
 * Muskan Kohli (1024170453)
