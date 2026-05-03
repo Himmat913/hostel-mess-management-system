@@ -86,6 +86,6 @@ The project includes analytical queries such as:
 
 ## Author
 
-Himantveer Kaur (1024170271)
-Muskan Kohli (1024170453)
-Ansh Bindal (1024170273)
+* Himantveer Kaur (1024170271)
+* Muskan Kohli (1024170453)
+* Ansh Bindal (1024170273)
